@@ -1,7 +1,7 @@
 CLI SNAKE
 =========
 
-![snake](https://raw.githubusercontent.com/metaory/meta-cli-snake/master/screenshot.png)
+![snake](https://raw.githubusercontent.com/metaory/snake-cli-poc/master/screenshot.png)
 
 ```
 yarn
