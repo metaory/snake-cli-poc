@@ -1,0 +1,15 @@
+{
+  "name": "meta-cli-snake",
+  "version": "0.0.1",
+  "description": "meta cli snake grid",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index"
+  },
+  "author": "metaory",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^2.4.0",
+    "tty-table": "^2.6.0"
+  }
+}
